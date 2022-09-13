@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shérazade</h1>
-<h3 align="center">a student from le wagon Bordeaux.</h3>
+<h3 align="center">a full-stack developper from Bordeaux.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sheshe33&label=Profile%20views&color=0e75b6&style=flat" alt="sheshe33" /> </p>
 
